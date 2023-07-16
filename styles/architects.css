@@ -3,8 +3,6 @@
 
 /* shared styles */
 * {
-    /* margin: 0;
-    padding: 0; */
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
@@ -112,16 +110,14 @@ main{
     padding: 0px 70px;
 }
 .teams-title{
-    font-size: 2.8rem;
-    padding-bottom: 20px;
+    font-size: 2.5rem;
 }
 .teams-title .quick-list{
     font-weight: 500;
 }
 .of-our{
-    color: #131313;
     font-weight: 700;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 .text-features{
     font-weight: 700;
@@ -131,6 +127,20 @@ main{
     font-weight: 400;
     padding-bottom: 10px;
 }
+
+/* features section style */
+
+
+/* facts section styles */
+.facts-title{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.facts-description{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
 
 /* responsive styles */
 /* mobile devices */

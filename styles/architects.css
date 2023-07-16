@@ -183,7 +183,11 @@ main {
     font-size: 1rem;
     font-weight: 400;
 }
-
+.sponsor-img{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
 
 /* responsive styles */
 /* mobile devices */
